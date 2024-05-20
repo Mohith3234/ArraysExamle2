@@ -1,0 +1,10 @@
+C:\Csharp\ArraysExample2\ArraysExample2\bin\Debug\ArraysExample2.exe.config
+C:\Csharp\ArraysExample2\ArraysExample2\bin\Debug\ArraysExample2.exe
+C:\Csharp\ArraysExample2\ArraysExample2\bin\Debug\ArraysExample2.pdb
+C:\Csharp\ArraysExample2\ArraysExample2\bin\Debug\ClassLibrary1.dll
+C:\Csharp\ArraysExample2\ArraysExample2\bin\Debug\ClassLibrary1.pdb
+C:\Csharp\ArraysExample2\ArraysExample2\obj\Debug\ArraysExample2.csproj.AssemblyReference.cache
+C:\Csharp\ArraysExample2\ArraysExample2\obj\Debug\ArraysExample2.csproj.CoreCompileInputs.cache
+C:\Csharp\ArraysExample2\ArraysExample2\obj\Debug\ArraysEx.3059F5FB.Up2Date
+C:\Csharp\ArraysExample2\ArraysExample2\obj\Debug\ArraysExample2.exe
+C:\Csharp\ArraysExample2\ArraysExample2\obj\Debug\ArraysExample2.pdb
